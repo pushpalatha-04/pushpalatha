@@ -57,9 +57,11 @@ Built a responsive portfolio with smooth navigation and contact integration.
 Developed an AI-powered LMS with dashboards, real-time chat, and quiz generation.
 
 ---
-AI Risk Analyzer
+⚠️ AI Risk Analyzer
 Spring Boot | JavaScript | Gemini API | Docker
+
 • Built an AI-based project risk analysis tool with REST APIs and chat-style UI, deployed on cloud using Docker with secure API integration.
+
 
 
 <div align="center">
