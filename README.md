@@ -57,12 +57,11 @@ Built a responsive portfolio with smooth navigation and contact integration.
 Developed an AI-powered LMS with dashboards, real-time chat, and quiz generation.
 
 ---
-⚠️ AI Risk Analyzer
-Spring Boot | JavaScript | Gemini API | Docker
+<h3 style="color:#0f2027;">⚠️ AI Risk Analyzer</h3>
+<p><i>Spring Boot | JavaScript | Gemini API | Docker</i></p>
 
-• Built an AI-based project risk analysis tool with REST APIs and chat-style UI, deployed on cloud using Docker with secure API integration.
-
-
+• Developed an AI-powered application that analyzes project descriptions and generates risk scores, technical challenges, and recommendations using Gemini API.  
+• Designed a chat-style UI with RESTful backend services and deployed a Dockerized application on cloud infrastructure.  
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&text=✦%20%20Let%27s%20build%20something%20amazing%20%20✦&fontSize=15&fontColor=64ffda"/>
